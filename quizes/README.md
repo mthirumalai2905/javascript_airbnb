@@ -187,7 +187,7 @@ console.log(objA);
 <b>d) null</b> <br>
 <hr/>
 
-10) *Based on Objects and Inheritance*
+11 *Based on Objects and Inheritance*
 
 ```javascript
 
